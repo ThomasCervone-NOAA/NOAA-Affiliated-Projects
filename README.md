@@ -131,3 +131,8 @@ The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-f
 
 This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Climate, Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Climate, Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
 
+### [Ocean Prediction Center (OPC)](https://github.com/Ocean-Prediction-Center-OPC) 
+
+The OPC strives to provide the world's best marine weather forecasts, preventing loss of life and property at sea. It is located at the National Center for Weather and Climate Prediction in College Park, Maryland. OPC originates and issues marine warnings and forecasts, continually monitors and analyzes maritime data, and provides guidance of marine atmospheric variables for purposes of protection of life and property, safety at sea, and enhancement of economic opportunity. These products fulfill U.S. responsibilities with the World Meteorological Organization and Safety of Life at Sea Convention (SOLAS) [International Convention for the Safety of Life at Sea, 1960 and 1974].
+
+For more information, please visit the [OPC website](https://ocean.weather.gov/index.php)
